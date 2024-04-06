@@ -1,0 +1,12 @@
+body {
+	background-color: #232323;
+}
+body h1 {
+	font-size: 30px;
+	color: #8b8b8b;
+	padding-left: 20px;
+}
+.style{
+    width: 400px;
+    margin: 0 auto;
+}
