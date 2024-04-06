@@ -1,2 +1,4 @@
-# bitcoind_price_widget
-bitcoind_price_widget
+# bitcoin_price_widget
+
+
+# Preview
