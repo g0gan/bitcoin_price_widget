@@ -1,5 +1,5 @@
 # bitcoin_price_widget
-
-
-# Preview
-[URL](https://bitcoin-price-widget.vercel.app) 
+<iframe
+  src="https://bitcoin-price-widget.vercel.app"
+  style="width:100%; height:300px;"
+></iframe>
