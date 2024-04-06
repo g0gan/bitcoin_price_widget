@@ -1,0 +1,2 @@
+# bitcoind_price_widget
+bitcoind_price_widget
